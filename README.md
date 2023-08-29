@@ -1,1 +1,1 @@
-# raspberryPi-based-RIS-controller
+# RaspberryPi-based RIS/IRS controller
